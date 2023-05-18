@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br><br>📚 I'm currently learning Golang & some French<br><br>🎯 Goals: To build the next generation of software solutions that impacts Africa & the world.<br><br>🎲 Fun fact: I'll be playing some Madden or Ghost of Tsushima when not hunting bugs.</p>
+<p align="left">✨ Creating bugs since 2017<br><br>📚 I'm currently learning Kubernetes, Next JS & some French<br><br>🎯 Goals: To build the next generation of software solutions that impacts Africa & the world.<br><br>🎲 Fun fact: I'll be playing some Madden or Ghost of Tsushima when not hunting bugs.</p>
 
 ###
 
